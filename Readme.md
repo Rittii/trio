@@ -38,4 +38,4 @@ Egy olyan körökre osztott stratégiai játék, aminek alapja a remek partiját
 •	Legyen lehetőség egy külön szervert indítani offline, az adott gépen.
 •	Unity technológia
 
-###A Dokumentáció teljes változata megtalálható a "main"-ben. 
+### A Dokumentáció teljes változata megtalálható a "main"-ben. 
