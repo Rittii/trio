@@ -1,10 +1,10 @@
-#Bevezetés
+# Bevezetés
 
-##A program részletes leírása
+## A program részletes leírása
 
 A klasszikus táblajátékként elhíresült „torpedó” -t implementáltuk a programba. A torpedó játékra rengeteg online felületen találhatunk kópiákat. Azonban ezek nagy része nem a legkidogozottabb. Mi egy olyan játékot fejlesztünk melynek lényege a torpedó szabályai, viszont vannak képességeik az adott, hajóknak. 
 
-##Hasonló programok
+## Hasonló programok
 
 > Klasszikus táblajáték
 
@@ -12,7 +12,7 @@ A klasszikus táblajátékként elhíresült „torpedó” -t implementáltuk a
 
 > Battleship PS4
 
-##Összegzés
+## Összegzés
 
 Adott volt egy klasszikus játék, amit mindenki ismer. Ezt fejlesztetettük tovább és hoztuk létre benne azt, hogy lehet képességet használni. A célközönsége ennek a játéknak a gyermekek, de gyakorlatilag egy olyan játék, amely jó, partijátéknak és családi szórakozásnak egyaránt.
 
@@ -24,14 +24,14 @@ Az interneten fellelhető torpedó játékok nem hozzák azokat az élményeket,
 
 Egy olyan körökre osztott stratégiai játék, aminek alapja a remek partijáték, a torpedó. Azonban belehoztuk a 21. század vívmányait, ezzel egy nagyon érdekes és rendkívül szórakoztató játékot hozva létre.
 
-##Funkcionális követelmények
+## Funkcionális követelmények
 
 •	A felhasználó navigálhat a menürendszerben.
 •	A játék két főre működjön.
 •	A menü legyen átlátható és felhasználó barát.
 •	A menüből legyen egyszerűen indítható a játék
 
-##Nem funkcionális követelmények
+## Nem funkcionális követelmények
 
 •	A szoftver szállítható legyen. (Egyik gépről a másikra.)
 •	Többfelhasználós szoftver (Hálózatra csatlakozik.)
