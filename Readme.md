@@ -26,16 +26,16 @@ Egy olyan körökre osztott stratégiai játék, aminek alapja a remek partiját
 
 ## Funkcionális követelmények
 
-•	A felhasználó navigálhat a menürendszerben.
-•	A játék két főre működjön.
-•	A menü legyen átlátható és felhasználó barát.
-•	A menüből legyen egyszerűen indítható a játék
+-	A felhasználó navigálhat a menürendszerben.
+-	A játék két főre működjön.
+-	A menü legyen átlátható és felhasználó barát.
+-	A menüből legyen egyszerűen indítható a játék
 
 ## Nem funkcionális követelmények
 
-•	A szoftver szállítható legyen. (Egyik gépről a másikra.)
-•	Többfelhasználós szoftver (Hálózatra csatlakozik.)
-•	Legyen lehetőség egy külön szervert indítani offline, az adott gépen.
-•	Unity technológia
+-	A szoftver szállítható legyen. (Egyik gépről a másikra.)
+-	Többfelhasználós szoftver (Hálózatra csatlakozik.)
+-	Legyen lehetőség egy külön szervert indítani offline, az adott gépen.
+-	Unity technológia
 
 ### A Dokumentáció teljes változata megtalálható a "main"-ben. 
